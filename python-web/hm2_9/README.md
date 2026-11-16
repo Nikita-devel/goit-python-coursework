@@ -1,4 +1,4 @@
-[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-web/Python_Web)
 
 # Web Scraping Project - Quotes and Authors
 

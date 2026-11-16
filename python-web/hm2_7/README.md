@@ -1,4 +1,4 @@
-[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-web/Python_Web)
 
 # Homework Assignment #7 - Extended Database Operations
 

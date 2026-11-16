@@ -12,22 +12,22 @@ This repository contains materials and projects related to the Python Core cours
 
 ### 1. File Sorter
 
-- [File Sorter](https://github.com/Nikita-devel/home_work_6/tree/main): Sorting files in a given folder.
+- [File Sorter](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-core/home_work_6/tree/main): Sorting files in a given folder.
 
 ### 2. File Sorter 2.0
 
-- [File Sorter 2.0](https://github.com/Nikita-devel/home_work_7/tree/main): Improved version of File Sorter, usable at any point on the computer.
+- [File Sorter 2.0](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-core/home_work_7/tree/main): Improved version of File Sorter, usable at any point on the computer.
 
 ### 3. Birthday Greetings
 
-- [Birthday Greetings](https://github.com/Nikita-devel/home_work_8/tree/main): Helps save birthday dates and displays upcoming birthdays for a specified period.
+- [Birthday Greetings](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-core/home_work_8/tree/main): Helps save birthday dates and displays upcoming birthdays for a specified period.
 
 ### 4. Console Assistant Bot
 
-- [Console Assistant Bot](https://github.com/Nikita-devel/home_work_9/tree/main)
-- [Console Assistant Bot 1.1](https://github.com/Nikita-devel/home_work_10/tree/main)
-- [Console Assistant Bot 1.2](https://github.com/Nikita-devel/home_work_11/tree/main)
-- [Console Assistant Bot 1.3](https://github.com/Nikita-devel/home_work_12/tree/main)
+- [Console Assistant Bot](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-core/home_work_9/tree/main)
+- [Console Assistant Bot 1.1](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-core/home_work_10/tree/main)
+- [Console Assistant Bot 1.2](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-core/home_work_11/tree/main)
+- [Console Assistant Bot 1.3](https://github.com/Nikita-devel/goit-python-coursework/tree/main/python-core/home_work_12/tree/main)
 
   
 ## Teamwork Experience
